@@ -1,0 +1,11 @@
+/home/Developer/C#/ProjectSuperCar/bin/Debug/netcoreapp3.1/ProjectSuperCar
+/home/Developer/C#/ProjectSuperCar/bin/Debug/netcoreapp3.1/ProjectSuperCar.deps.json
+/home/Developer/C#/ProjectSuperCar/bin/Debug/netcoreapp3.1/ProjectSuperCar.runtimeconfig.json
+/home/Developer/C#/ProjectSuperCar/bin/Debug/netcoreapp3.1/ProjectSuperCar.runtimeconfig.dev.json
+/home/Developer/C#/ProjectSuperCar/bin/Debug/netcoreapp3.1/ProjectSuperCar.dll
+/home/Developer/C#/ProjectSuperCar/bin/Debug/netcoreapp3.1/ProjectSuperCar.pdb
+/home/Developer/C#/ProjectSuperCar/obj/Debug/netcoreapp3.1/ProjectSuperCar.csprojAssemblyReference.cache
+/home/Developer/C#/ProjectSuperCar/obj/Debug/netcoreapp3.1/ProjectSuperCar.AssemblyInfoInputs.cache
+/home/Developer/C#/ProjectSuperCar/obj/Debug/netcoreapp3.1/ProjectSuperCar.AssemblyInfo.cs
+/home/Developer/C#/ProjectSuperCar/obj/Debug/netcoreapp3.1/ProjectSuperCar.dll
+/home/Developer/C#/ProjectSuperCar/obj/Debug/netcoreapp3.1/ProjectSuperCar.pdb
