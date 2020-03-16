@@ -1,0 +1,11 @@
+/home/firdausyah22/Developer/C#/TheBalls/obj/Debug/netcoreapp3.1/TheBalls.csprojAssemblyReference.cache
+/home/firdausyah22/Developer/C#/TheBalls/obj/Debug/netcoreapp3.1/TheBalls.AssemblyInfoInputs.cache
+/home/firdausyah22/Developer/C#/TheBalls/obj/Debug/netcoreapp3.1/TheBalls.AssemblyInfo.cs
+/home/firdausyah22/Developer/C#/TheBalls/bin/Debug/netcoreapp3.1/TheBalls
+/home/firdausyah22/Developer/C#/TheBalls/bin/Debug/netcoreapp3.1/TheBalls.deps.json
+/home/firdausyah22/Developer/C#/TheBalls/bin/Debug/netcoreapp3.1/TheBalls.runtimeconfig.json
+/home/firdausyah22/Developer/C#/TheBalls/bin/Debug/netcoreapp3.1/TheBalls.runtimeconfig.dev.json
+/home/firdausyah22/Developer/C#/TheBalls/bin/Debug/netcoreapp3.1/TheBalls.dll
+/home/firdausyah22/Developer/C#/TheBalls/bin/Debug/netcoreapp3.1/TheBalls.pdb
+/home/firdausyah22/Developer/C#/TheBalls/obj/Debug/netcoreapp3.1/TheBalls.dll
+/home/firdausyah22/Developer/C#/TheBalls/obj/Debug/netcoreapp3.1/TheBalls.pdb
