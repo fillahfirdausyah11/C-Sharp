@@ -1,0 +1,11 @@
+/home/firdausyah22/Developer/C#/Tuugas 6/obj/Debug/netcoreapp3.1/Tuugas 6.csprojAssemblyReference.cache
+/home/firdausyah22/Developer/C#/Tuugas 6/obj/Debug/netcoreapp3.1/Tuugas 6.AssemblyInfoInputs.cache
+/home/firdausyah22/Developer/C#/Tuugas 6/obj/Debug/netcoreapp3.1/Tuugas 6.AssemblyInfo.cs
+/home/firdausyah22/Developer/C#/Tuugas 6/bin/Debug/netcoreapp3.1/Tuugas 6
+/home/firdausyah22/Developer/C#/Tuugas 6/bin/Debug/netcoreapp3.1/Tuugas 6.deps.json
+/home/firdausyah22/Developer/C#/Tuugas 6/bin/Debug/netcoreapp3.1/Tuugas 6.runtimeconfig.json
+/home/firdausyah22/Developer/C#/Tuugas 6/bin/Debug/netcoreapp3.1/Tuugas 6.runtimeconfig.dev.json
+/home/firdausyah22/Developer/C#/Tuugas 6/bin/Debug/netcoreapp3.1/Tuugas 6.dll
+/home/firdausyah22/Developer/C#/Tuugas 6/bin/Debug/netcoreapp3.1/Tuugas 6.pdb
+/home/firdausyah22/Developer/C#/Tuugas 6/obj/Debug/netcoreapp3.1/Tuugas 6.dll
+/home/firdausyah22/Developer/C#/Tuugas 6/obj/Debug/netcoreapp3.1/Tuugas 6.pdb

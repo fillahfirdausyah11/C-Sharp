@@ -1,0 +1,11 @@
+/home/firdausyah22/Developer/C#/Contoh/SuperComputer/bin/Debug/netcoreapp3.1/SuperComputer
+/home/firdausyah22/Developer/C#/Contoh/SuperComputer/bin/Debug/netcoreapp3.1/SuperComputer.deps.json
+/home/firdausyah22/Developer/C#/Contoh/SuperComputer/bin/Debug/netcoreapp3.1/SuperComputer.runtimeconfig.json
+/home/firdausyah22/Developer/C#/Contoh/SuperComputer/bin/Debug/netcoreapp3.1/SuperComputer.runtimeconfig.dev.json
+/home/firdausyah22/Developer/C#/Contoh/SuperComputer/bin/Debug/netcoreapp3.1/SuperComputer.dll
+/home/firdausyah22/Developer/C#/Contoh/SuperComputer/bin/Debug/netcoreapp3.1/SuperComputer.pdb
+/home/firdausyah22/Developer/C#/Contoh/SuperComputer/obj/Debug/netcoreapp3.1/SuperComputer.csprojAssemblyReference.cache
+/home/firdausyah22/Developer/C#/Contoh/SuperComputer/obj/Debug/netcoreapp3.1/SuperComputer.AssemblyInfoInputs.cache
+/home/firdausyah22/Developer/C#/Contoh/SuperComputer/obj/Debug/netcoreapp3.1/SuperComputer.AssemblyInfo.cs
+/home/firdausyah22/Developer/C#/Contoh/SuperComputer/obj/Debug/netcoreapp3.1/SuperComputer.dll
+/home/firdausyah22/Developer/C#/Contoh/SuperComputer/obj/Debug/netcoreapp3.1/SuperComputer.pdb
