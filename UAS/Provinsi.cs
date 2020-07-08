@@ -9,7 +9,11 @@ namespace dataProvinsi {
 
         public void kabupaten() {
             // Tulis Kabupaten disini
-            Console.WriteLine("Kabupaten di DIY");
+            Console.WriteLine("Kabupaten di DIY:");
+            Console.WriteLine("Sleman:");
+            Console.WriteLine("Bantul:");
+            Console.WriteLine("Gunung Kidul:");
+            Console.WriteLine("Kulon Progo:");
         }
     }
     
