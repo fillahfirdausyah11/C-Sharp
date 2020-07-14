@@ -9,7 +9,10 @@ namespace dataProvinsi {
 
         public void kabupaten() {
             // Tulis Kabupaten disini
-            Console.WriteLine("Kabupaten di DIY:");
+            Console.WriteLine(" ======================================= ");
+            Console.WriteLine(" ::         DATA PROVINSI DIY         :: ");
+            Console.WriteLine(" ======================================= ");
+            Console.WriteLine("\n Kabupaten di DIY:");
         }
     }
     

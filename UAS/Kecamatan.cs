@@ -4,8 +4,8 @@ using System.Text;
 
 
 namespace dataProvinsi{
-    class Kecamatan : Kabupaten {
-        
+    class Kecamatan : Kabupaten{
+
     }
     
 }

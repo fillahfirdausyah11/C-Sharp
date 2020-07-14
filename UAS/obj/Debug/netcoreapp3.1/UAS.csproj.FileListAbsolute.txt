@@ -9,3 +9,16 @@
 /home/firdausyah22/Developer/C#/UAS/obj/Debug/netcoreapp3.1/UAS.AssemblyInfo.cs
 /home/firdausyah22/Developer/C#/UAS/obj/Debug/netcoreapp3.1/UAS.dll
 /home/firdausyah22/Developer/C#/UAS/obj/Debug/netcoreapp3.1/UAS.pdb
+D:\Kuliah\Semester 2\FP\Pemrograman\C-Sharp\UAS\bin\Debug\netcoreapp3.1\UAS.exe
+D:\Kuliah\Semester 2\FP\Pemrograman\C-Sharp\UAS\bin\Debug\netcoreapp3.1\UAS.deps.json
+D:\Kuliah\Semester 2\FP\Pemrograman\C-Sharp\UAS\bin\Debug\netcoreapp3.1\UAS.runtimeconfig.json
+D:\Kuliah\Semester 2\FP\Pemrograman\C-Sharp\UAS\bin\Debug\netcoreapp3.1\UAS.runtimeconfig.dev.json
+D:\Kuliah\Semester 2\FP\Pemrograman\C-Sharp\UAS\bin\Debug\netcoreapp3.1\UAS.dll
+D:\Kuliah\Semester 2\FP\Pemrograman\C-Sharp\UAS\bin\Debug\netcoreapp3.1\UAS.pdb
+D:\Kuliah\Semester 2\FP\Pemrograman\C-Sharp\UAS\obj\Debug\netcoreapp3.1\UAS.csprojAssemblyReference.cache
+D:\Kuliah\Semester 2\FP\Pemrograman\C-Sharp\UAS\obj\Debug\netcoreapp3.1\UAS.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 2\FP\Pemrograman\C-Sharp\UAS\obj\Debug\netcoreapp3.1\UAS.AssemblyInfoInputs.cache
+D:\Kuliah\Semester 2\FP\Pemrograman\C-Sharp\UAS\obj\Debug\netcoreapp3.1\UAS.AssemblyInfo.cs
+D:\Kuliah\Semester 2\FP\Pemrograman\C-Sharp\UAS\obj\Debug\netcoreapp3.1\UAS.dll
+D:\Kuliah\Semester 2\FP\Pemrograman\C-Sharp\UAS\obj\Debug\netcoreapp3.1\UAS.pdb
+D:\Kuliah\Semester 2\FP\Pemrograman\C-Sharp\UAS\obj\Debug\netcoreapp3.1\UAS.genruntimeconfig.cache
