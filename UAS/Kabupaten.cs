@@ -22,7 +22,6 @@ namespace dataProvinsi {
             Console.WriteLine(" 12. Kecamatan TEGALREJO");
             Console.WriteLine(" 13. Kecamatan UMBULHARJO");
             Console.WriteLine(" 14. Kecamatan WIROBRAJAN");
-
         }
     }
 }
