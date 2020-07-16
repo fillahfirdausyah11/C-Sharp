@@ -7,11 +7,11 @@ namespace dataProvinsi
         static void Main(string[] args)
         {
             Kecamatan kecamatan = new Kecamatan();
-            kecamatan.provinsi();
             kecamatan.kabupaten();
             kecamatan.kecamatan();
+            kecamatan.kelurahan();
 
-            Console.WriteLine(" Hello Manusia!");
+            Console.WriteLine("\n Demikian beberapa kabupaten, kecamatan, dan kelurahan di DIY ");
         }
     }
 }
